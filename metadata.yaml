@@ -1,0 +1,31 @@
+_repo: The-Native-Races-of-East-Africa_67513
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hambly, Wilfrid D. (Wilfrid Dyson)
+    aliases:
+    - Hambly, Wilfred D. (Wilfrid Dyson)
+    - Hambly, W. D. (Wilfrid Dyson)
+    - Hambly, William D. (William Dyson)
+    birthdate: 1886
+    deathdate: 1962
+    gutenberg_agent_id: '54165'
+    url: http://www.gutenberg.org/2009/agents/54165
+description: ''
+gutenberg_issued: '2022-02-26'
+identifiers:
+  gutenberg: '67513'
+language: en
+pgterms:marc905: 20210728200245hambly
+pgterms:marc906: '1920'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Oxford University Press,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Native Races of East Africa
+url: http://www.gutenberg.org/ebooks/67513
