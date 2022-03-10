@@ -1,5 +1,8 @@
 _repo: The-Native-Races-of-East-Africa_67513
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67513-h/images/cover.jpg
 creator:
   author:
     agent_name: Hambly, Wilfrid D. (Wilfrid Dyson)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '54165'
     url: http://www.gutenberg.org/2009/agents/54165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67513#The-Native-Races-of-East-Africa
 gutenberg_issued: '2022-02-26'
 identifiers:
   gutenberg: '67513'
